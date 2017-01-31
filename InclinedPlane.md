@@ -2,11 +2,15 @@
 
 
 1. A 3.0 m long board has one end raised to a height of 60 cm to form an incline. A 4.0 kg mass is allowed to slide without friction down the entire length of the inclined plane.
+
 a. What is the final speed of the mass when it reaches the bottom ?
+
 b. If the mass is replaced with an 8.0 kg mass, what would be the new speed when it reaches the bottom?
 
 2. A wooden block slides directly down an inclined plane, at a constant velocity of 6 m/s.
+
 a. How large is the coefficient of kinetic friction if the plane makes an angle of 25 degrees with the horizontal?
+
 b. If the angle of incline is changed to 10º, how long far will the block slide before coming to a stop?
 
 3. A 10.0 kg box accelerates at 2.00 m/s2 as it slides down a ramp that makes an angle of 25.0 degrees with the horizontal. Find the coefficient of friction.
