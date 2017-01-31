@@ -9,11 +9,11 @@ b. If the mass is replaced with an 8.0 kg mass, what would be the new speed when
 a. How large is the coefficient of kinetic friction if the plane makes an angle of 25 degrees with the horizontal?  
 b. If the angle of incline is changed to 10º, how long far will the block slide before coming to a stop?
 
-3. A 10.0 kg box accelerates at 2.00 m/s2 as it slides down a ramp that makes an angle of 25.0 degrees with the horizontal. Find the coefficient of friction.
+3. A 10.0 kg box accelerates at 2.00 m/s<sup>2</sup> as it slides down a ramp that makes an angle of 25.0 degrees with the horizontal. Find the coefficient of friction.
 
 4. A 10.0 kg box is pulled up a 45 degree ramp at a constant velocity by a force of 90.0 N acting parallel to the ramp. Find the coefficient of friction.
 
-5. a 10.0 kg box is pulled up a ramp that is at an angle of 20.0 degrees with the horizontal, with the rope that makes and angle of 30.0 degrees with the ramp. if pulling with a force of 70.0 N causes and acceleration of 2.00 m/s2. Find the coefficient of friction.
+5. a 10.0 kg box is pulled up a ramp that is at an angle of 20.0 degrees with the horizontal, with the rope that makes and angle of 30.0 degrees with the ramp. if pulling with a force of 70.0 N causes and acceleration of 2.00 m/s<sup>2</sup>. Find the coefficient of friction.
 
 6. A 10.0 kg box is pulled down a 45 degree ramp by a rope attached to the box that makes a angle of 30.0 degrees with the ramp. If a tension of 10.0 N causes the box to move at a constant velocity, what is the coefficient of friction for the box sliding on the ramp?
 
@@ -21,7 +21,11 @@ b. If the angle of incline is changed to 10º, how long far will the block slide
 
 8. 10.0-kg box starts at rest and slides 3.5 m down a ramp inclined at an angle of 10 degrees with the horizontal. If there is no friction between the ramp surface and crate, what is the velocity of the crate at the bottom of the ramp?
 
-9. A 10 kg block is placed on top of an inclined plane 10 m long. The coefficient of static friction is 0.4 and the coefficient of kinetic friction is 0.2. The inclined plane is 30 degrees from the horizontal. a.) What is the acceleration of the block? b.) When will it hit the ground? c.) What is its impact velocity? d.) What is the angle of repose?
+9. A 10 kg block is placed on top of an inclined plane 10 m long. The coefficient of static friction is 0.4 and the coefficient of kinetic friction is 0.2. The inclined plane is 30 degrees from the horizontal.  
+a.) What is the acceleration of the block?  
+b.) When will it hit the ground?  
+c.) What is its impact velocity?  
+d.) What is the angle of repose?
 
 10. An object is being pulled up a 15° incline against a frictional coefficient of 0.15, and requires a force of 835 N parallel to the surface of the ramp to move it at a constant speed. What is the weight of the object?
 
